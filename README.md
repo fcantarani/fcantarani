@@ -1,32 +1,47 @@
 # Olá, sou Fábio Cantarani! 👋
 
-Bem-vindo ao meu perfil no GitHub! Sou um desenvolvedor apaixonado por tecnologia e estou sempre em busca de aprender e melhorar minhas habilidades.
+Bem-vindo ao meu perfil no GitHub! Sou um desenvolvedor apaixonado por tecnologia e estou sempre em busca de aprender e evoluir minhas habilidades.
 
-“Consagre ao Senhor tudo o que você faz, e os seus planos serão bem-sucedidos.”
+✝️ “Consagre ao Senhor tudo o que você faz, e os seus planos serão bem-sucedidos.”  
 Provérbios 16:3
 
 ## 🚀 Sobre mim
 
-Sou um(a) desenvolvedor(a) full-stack(apaixonado por frontend), com experiência em diversas tecnologias como ReactJS, Typescript, TailwindCSS, Bootstrap, Python, Node, etc. Tenho interesse em inteligência artificial, desenvolvimento web, etc., e estou constantemente explorando novos desafios e soluções criativas.
+Sou desenvolvedor full-stack (com uma quedinha especial por frontend), com experiência em diversas tecnologias como ReactJS, Typescript, TailwindCSS, Bootstrap, Python, Node, entre outras. Tenho interesse em inteligência artificial, desenvolvimento web e estou constantemente explorando novos desafios e soluções criativas.
 
-- 🔭 Atualmente estou trabalhando em uma start-up financeira.
-- 🌱 Atualmente estou aprendendo Python e NodeJS
-- 🤔 Estou aberto(a) a oportunidades de: desenvolvimento ou analise de dados
-- ⚡ Curiosidade: Na horas vagas pratico tiro despotivo(IPSC).
+- ✝️ Sou Cristão  
+- 🌱 Atualmente aprendendo Python e NodeJS  
+- 🤔 Aberto a oportunidades em desenvolvimento ou análise de dados  
+- ⚡ Curiosidade: nas horas vagas pratico tiro esportivo (IPSC)
 
 ## 🛠 Tecnologias e Ferramentas
 
-Aqui estão algumas das ferramentas e tecnologias com as quais eu trabalho:
+## 🛠 Tecnologias e Ferramentas
 
-- **Linguagens de Programação**: Python, C#, Typescript
-- **Frameworks e Bibliotecas**: ReactJS, Node.js, Laravel
-- **Ferramentas**: Git, Docker, NPM, YARN
-- **Banco de Dados**: MySQL, Postgres, Snowflake
+### **Linguagens**
+Python • C# • Typescript
+
+### **Frameworks e Bibliotecas**
+ReactJS • Node.js • Laravel  
+
+### **Ferramentas**
+Git • NPM • Yarn  
+
+### **Banco de Dados**
+MySQL • Postgres • Snowflake
+
+### **DevOps / Infraestrutura**
+Docker • Docker Compose • GitHub Actions • AWS • Swagger / OpenAPI
+
+### **Testes e APIs**
+Postman • Insomnia
+
+### **Ferramentas de Produtividade**
+VS Code • Figma • Notion
 
 ## 🌍 Redes Sociais
 
 - [LinkedIn](https://www.linkedin.com/in/fabiocantarani)
-
 
 ## 📊 Estatísticas do GitHub
 
