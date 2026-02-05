@@ -16,8 +16,6 @@ Sou desenvolvedor full-stack, com forte afinidade por frontend e experiência em
 
 ## 🛠 Tecnologias e Ferramentas
 
-## 🛠 Tecnologias e Ferramentas
-
 ### **Linguagens**
 Python • C# • Typescript
 
