@@ -2,6 +2,9 @@
 
 Bem-vindo ao meu perfil no GitHub! Sou um desenvolvedor apaixonado por tecnologia e estou sempre em busca de aprender e melhorar minhas habilidades.
 
+“Consagre ao Senhor tudo o que você faz, e os seus planos serão bem-sucedidos.”
+Provérbios 16:3
+
 ## 🚀 Sobre mim
 
 Sou um(a) desenvolvedor(a) full-stack(apaixonado por frontend), com experiência em diversas tecnologias como ReactJS, Typescript, TailwindCSS, Bootstrap, Python, Node, etc. Tenho interesse em inteligência artificial, desenvolvimento web, etc., e estou constantemente explorando novos desafios e soluções criativas.
