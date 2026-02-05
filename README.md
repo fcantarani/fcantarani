@@ -7,7 +7,7 @@ Provérbios 16:3
 
 ## 🚀 Sobre mim
 
-Sou desenvolvedor full-stack (com uma quedinha especial por frontend), com experiência em diversas tecnologias como ReactJS, Typescript, TailwindCSS, Bootstrap, Python, Node, entre outras. Tenho interesse em inteligência artificial, desenvolvimento web e estou constantemente explorando novos desafios e soluções criativas.
+Sou desenvolvedor full-stack, com forte afinidade por frontend e experiência em tecnologias como ReactJS, Typescript, TailwindCSS, Bootstrap, Python e Node.js. Tenho interesse especial em inteligência artificial e desenvolvimento web, e estou sempre em busca de novos desafios que me permitam criar soluções eficientes, escaláveis e bem estruturadas.
 
 - ✝️ Sou Cristão  
 - 🌱 Atualmente aprendendo Python e NodeJS  
